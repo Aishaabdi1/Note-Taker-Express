@@ -1,7 +1,7 @@
 {
   "name": "note-taker-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "A note taking app made using express.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Aishaabdi1/Note-Taker-Express.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aisha Abdi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aishaabdi1/Note-Taker-Express/issues"
