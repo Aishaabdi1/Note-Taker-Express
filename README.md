@@ -3,6 +3,10 @@
 
 # Description
 
+# Table of Contents
+
+# Usage
+
 # View Routes 
 
 - "/" -> render the landing page 
@@ -20,3 +24,7 @@
 2. Setup routes (view routes for now)
 3. Setup controllers (view controllers)
 4. Run 'npm start' and navigate to home page and notes page
+
+# Contribution
+
+# Questions
