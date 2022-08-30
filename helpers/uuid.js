@@ -1,4 +1,4 @@
-// Export a function that produces a string of random numbers and letters 
+// Exports a function that produces a string of random numbers and letters 
 
 module.exports = () =>
   Math.floor((1 + Math.random()) * 0x10000)
