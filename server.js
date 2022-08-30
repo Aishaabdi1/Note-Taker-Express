@@ -1,5 +1,7 @@
 // Imports the express npm package
-const express = require("express"); 
+const express = require("express");
+// const path = require ("path");
+
 
 const fs = require("fs");
 const htmlRoutes = require("./routes/htmlRoutes");
